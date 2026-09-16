@@ -19,7 +19,7 @@ const experiences: Experience[] = [
     role: "Business & Strategy",
     dates: "May 2026 – Present",
     description:
-      "I worked with a Swarthmore alum who was building an early stage startup and needed support on the business and strategy side. I helped with research, strategic planning, and other business initiatives to support the company’s growth.",
+      "I worked with a Swarthmore alumni who was building an early stage startup and needed support on the business and strategy side. I helped with research, strategic planning, and other business initiatives to support the company’s growth.",
     did: [
       "Led direct outreach to venture capital partners to support company fundraising efforts",
       "Built an investor pipeline CRM to organize and track VC relationships and fundraising progress",
@@ -27,7 +27,7 @@ const experiences: Experience[] = [
       "Defined marketing and outreach strategy for acquiring beta users"
     ],
     learned:
-      "Working at an early-stage startup gave me firsthand experience with how companies think about funding and growth. Through researching different funding opportunities, I learned how accelerators and non-dilutive grants can support a company at different stages as well as the tradeoffs that come with each option. I also strengthened my communication skills through outreach to venture capital firms and learning how to adapt my pitch depending on the audience. Writing grant and accelerator applications taught me how to explain technical aspects of the business in a clear and accessible way. Lastly, helping build a beta user pipeline and waitlist showed me how important early customer outreach is to turning an idea into a product people are willing to use.",
+      "Working at an early-stage startup gave me firsthand experience with how companies think about funding and growth. Through researching different funding opportunities, I learned how accelerators and non-dilutive grants can support a company at different stages as well as the tradeoffs that come with each option. I also strengthened my communication skills through outreach to venture capital firms and adapted my pitch depending on the audience. Writing grant and accelerator applications taught me how to explain technical aspects of the business in a clear and accessible way. Lastly, helping build a beta user pipeline and waitlist showed me how important early customer outreach is to turning an idea into a product people are willing to use.",
   },
   {
     id: "lightbox",
@@ -35,10 +35,10 @@ const experiences: Experience[] = [
     role: "Data Engineering Intern",
     dates: "Summers 2025 & 2026",
     description:
-      "Lightbox is a  environmental and property data company. I worked in the Shelton office on the data engineering team contributing to projects involving data acquisition and geospatial processing. ",
+      "Lightbox is a  environmental and property data company. I worked on the data engineering team contributing to projects involving data acquisition and geospatial processing. ",
     did: [
       "Processed event geometries and published mapping services using Python and ArcGIS to support environmental response efforts during the Spokane, WA wildfires",
-      "Developed and deployed a Python Command Line Interface (CLI) to download, extract, and validate historical city directory files, using file size and MD5 checks to catch corrupted downloads while handling invalid identifiers without halting the workflow.",
+      "Developed and deployed a Python Command Line Interface (CLI) to download, extract, and validate historical city directory files, using file size and MD5 checks to catch corrupted downloads while handling invalid identifiers without halting the workflow",
       "Created a React website that was used as an internal tool to access and analyze sanborn maps",
     ],
     learned:
@@ -50,12 +50,12 @@ const experiences: Experience[] = [
     role: "Data Science Intern",
     dates: "Dec 2025 – Jan 2026",
     description:
-      "As part of the Micro-intership program offered by Parker Dewey, I was able to work with Swat alum Christine Lattin team at the LSU Lattin Lab",
+      "As part of the Micro-intership program offered by Parker Dewey, I was able to work with Swarthmore alumni Christine Lattin and her team at the LSU Lattin Lab.",
     did: [
       "Used Python and pandas to develop a script analyzing RFID data for a Louisiana State University research project investigating the effects of ectoparasites on maternal feeding behavior and chick fledging dates",
     ],
     learned:
-      "I learned how to work with unfamiliar datasets, organize and clean the information, and turn it into clear CSV files that could be easily examined by researchers. I also learned how to communicate technical ideas in a simple, accessible way so that researchers without a technical background could understand my work and iterate on my code. This experience strengthened both my ability to work with data and my understanding of how to make technical work useful to a broader team.",
+      "I learned how to work with unfamiliar datasets, organize and clean the information, and turn it into clear CSV files that could be easily examined by researchers. I also improved my ability to communicate technical ideas in a simple, accessible way so that researchers without a technical background could understand my work and iterate on my code. This experience strengthened both my ability to work with data and my understanding of how to make technical work useful to a broader team.",
   },
 ];
 

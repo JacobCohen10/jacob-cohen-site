@@ -18,8 +18,8 @@ export default function Personal() {
         <span className="mt-6 block text-xs font-semibold uppercase tracking-widest text-accent">
           A Little About Me
         </span>
-        <p className="mt-3 max-w-2xl text-lg leading-relaxed text-ink-muted dark:text-dark-muted">
-          I&apos;m usually outside either hiking, biking, or skiing depending on the season. I love being active with my friends and last summer I got hooked on pickleball. At home, I&apos;m usually deep in a board game or building something new. I get obsessed with what&apos;s possible to create now with AI and try to make new projects that come to mind. I try to start most mornings reading the Exec Sum to stay on top of the markets and try to stay up to date with financial podcasts. When I need a break there&apos;s nothing better than a long walk with some music on.
+        <p className="mt-3 text-base leading-relaxed text-ink-muted dark:text-dark-muted">
+          I love to be active with my friends. I'm usually outside either hiking, biking, or playing pickleball. At home, I&apos;m usually deeply involved in a board game or building something new. I am excited with what&apos;s possible to create now with AI and try to make new projects that come to mind. I most mornings reading the Exec Sum newsletter to stay on top of the markets and listen financial podcaststo stay up to date. When I need a break there&apos;s nothing better than a long walk with some music on.
         </p>
       </header>
 
@@ -36,7 +36,7 @@ export default function Personal() {
         <h2 className="mt-2 font-serif text-3xl font-bold text-ink dark:text-dark-fg">
           Fairfield → Rutland
         </h2>
-        <p className="mt-2 text-ink-muted dark:text-dark-muted">
+        <p className="mt-2 text-base leading-relaxed text-ink-muted dark:text-dark-muted">
           This summer, I biked 240 miles from Fairfield, Connecticut, to Rutland, Vermont, with a friend. Looking for an adventure, we planned a three day bike trip where we carried all of the supplies we needed on our bikes. This trip challenged us to map out the route and be strategic about our supplies so we could make it three days independently.
         </p>
 
