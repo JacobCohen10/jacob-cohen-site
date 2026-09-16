@@ -104,10 +104,6 @@ export default function PhotoGallery() {
         >
           →
         </button>
-
-        <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/60 to-transparent px-4 pb-3 pt-8">
-          <p className="text-sm font-medium text-white">{photo.caption}</p>
-        </div>
       </div>
 
       <div className="mt-4 flex gap-2 overflow-x-auto pb-1">
