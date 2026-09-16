@@ -25,7 +25,7 @@ const courses: Course[] = [
     term: "Fall 2026",
     tag: "Economics",
     note:
-      "This class covers microeconomic theory including consumer and firm decision making, market structure, income distribution, government policy, and welfare analysis. I took this course to develop a deeper understanding of economic theory so I have a stronger foundation when applying it to technical and analytical work.",
+      "This class covers microeconomic theory including consumer and firm decision making, market structure, income distribution, government policy, and welfare analysis. I took this course to study economic theory so I have a stronger foundation when applying it to technical and analytical work.",
   },
   {
     code: "FNCE 1000",
@@ -33,7 +33,7 @@ const courses: Course[] = [
     term: "Fall 2026",
     tag: "Finance",
     note:
-      "Cross-registered at Wharton to go deeper on foundations of corporate finance including valuation, investment decisions, capital structure, and financial derivatives. I took this course to learn how companies make financial decisions and improve my technical skills as I pursue a career in investment banking.",
+      "Cross-registered at Wharton School at University of Pennsylvania to learn about the foundations of corporate finance including valuation, investment decisions, capital structure, and financial derivatives. I took this course to understand how companies make financial decisions and improve my technical skills as I pursue a career in investment banking.",
   },
 ];
 

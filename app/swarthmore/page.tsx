@@ -24,9 +24,9 @@ export default function Swarthmore() {
         <h2 className="mb-6 text-xs font-semibold uppercase tracking-widest text-ink-subtle dark:text-dark-subtle">
           Why Swarthmore
         </h2>
-        <div className="grid gap-8 md:grid-cols-2">
-          <p className="text-lg leading-relaxed text-ink-muted dark:text-dark-muted">
-            I chose to attend Swarthmore because I wanted to be in a community of people who are intellectually curious and genuinely excited to learn. While touring Swarthmore, I had the opportunity to speak with a professor in the Engineering Department. Even though I was not yet a student, he took the time to explain a project one of his students was working on involving a kite designed to generate wind energy. He even gave me his number and encouraged me to reach out if I had any questions. That interaction showed me that I want to be apart of a community with strong academic rigor, but also a culture of collaboration where people are willing to share ideas, work together, and build things that can make a positive impact on the world.
+        <div className="grid gap-8 md:grid-cols-[3fr_2fr]">
+          <p className="text-base leading-relaxed text-ink-muted dark:text-dark-muted">
+            I chose to attend Swarthmore because I wanted to be in a community of people who are intellectually curious and genuinely excited to learn. While touring Swarthmore, I had the opportunity to speak with a professor in the Engineering Department. Even though I was not yet a student, he took the time to explain a project one of his students was working on involving a kite designed to generate wind energy. He even gave me his number and encouraged me to reach out if I had any questions. After this interaction I waned to be part of a culture of collaboration where people are willing to share ideas, work together, and build things that can make a positive impact on the world..
           </p>
 
           <div className="relative aspect-[1284/850] w-full overflow-hidden rounded-lg border border-ink/10 shadow-sm dark:border-dark-fg/10">
@@ -46,7 +46,7 @@ export default function Swarthmore() {
           Academics
         </h2>
         <p className="mb-8 max-w-lg text-sm text-ink-muted dark:text-dark-muted">
-          Course I am taking this semster
+          Courses I am taking this semster
         </p>
         <CourseCarousel />
       </section>
@@ -60,8 +60,8 @@ export default function Swarthmore() {
           Varsity Lacrosse
         </h2>
 
-        <div className="mt-8 grid gap-8 md:grid-cols-2">
-          <p className="text-sm leading-relaxed text-ink-muted dark:text-dark-muted">
+        <div className="mt-8 grid gap-8 md:grid-cols-[3fr_2fr]">
+          <p className="text-base leading-relaxed text-ink-muted dark:text-dark-muted">
             I am a defender on the Swarthmore varsity lacrosse team. Each practice consists of a lift, film session, and field session. Being a student-athlete has taught me how to manage my time between my academic and athletic commitments while taking responsibility for my performance and development. During my freshman season, I started 6 games and played in 14 games.
           </p>
 

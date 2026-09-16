@@ -12,9 +12,6 @@ export default function Experience() {
         <h1 className="font-serif text-4xl font-bold text-ink dark:text-dark-fg md:text-5xl">
           Experience
         </h1>
-        <p className="mt-4 max-w-lg text-ink-muted dark:text-dark-muted">
-          Professional and research work, most recent first.
-        </p>
       </header>
 
       <ExperienceList />
