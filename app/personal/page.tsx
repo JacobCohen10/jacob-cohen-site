@@ -19,7 +19,7 @@ export default function Personal() {
           A Little About Me
         </span>
         <p className="mt-3 text-base leading-relaxed text-ink-muted dark:text-dark-muted">
-          I love to be active with my friends. I'm usually outside either hiking, biking, or playing pickleball. At home, I&apos;m usually deeply involved in a board game or building something new. I am excited with what&apos;s possible to create now with AI and try to make new projects that come to mind. I most mornings reading the Exec Sum newsletter to stay on top of the markets and listen financial podcaststo stay up to date. When I need a break there&apos;s nothing better than a long walk with some music on.
+          I love to be active with my friends. I'm usually outside either hiking, biking, or playing pickleball. At home, I&apos;m usually deeply involved in a board game or building something new. I am excited with what&apos;s possible to create now with AI and try to make new projects that come to mind. Most mornings I read the Exec Sum newsletter to stay on top of the markets and listen financial podcasts to stay up to date. When I need a break there&apos;s nothing better than a long walk with some music on.
         </p>
       </header>
 
@@ -37,7 +37,7 @@ export default function Personal() {
           Fairfield → Rutland
         </h2>
         <p className="mt-2 text-base leading-relaxed text-ink-muted dark:text-dark-muted">
-          This summer, I biked 240 miles from Fairfield, Connecticut, to Rutland, Vermont, with a friend. Looking for an adventure, we planned a three day bike trip where we carried all of the supplies we needed on our bikes. This trip challenged us to map out the route and be strategic about our supplies so we could make it three days independently.
+          This summer, I biked 240 miles from Fairfield, Connecticut, to Rutland, Vermont, with a friend. Looking for an adventure, we planned a three day bike trip where we carried all of the supplies we needed on our bikes. This trip challenged us to map out the route and be strategic so we could make it in three days with our supplies.
         </p>
 
         <div className="mt-8 grid gap-6 md:grid-cols-4">
@@ -98,12 +98,12 @@ export default function Personal() {
               tagline:
                 "An iOS app that turns your screenshots into an organized collection.",
               problem:
-                "I'd see something interesting on LinkedIn or posted by Swarthmore, so I'd screenshot it to save for later. Then completely forget it existed. My camera roll became a mess of good ideas I'd never revisit.",
-              fix: "I built Recall to automatically sort every screenshot into categories I define myself such as Swarthmore, LinkedIn, Athletics",
+                "I'd see something interesting on LinkedIn or posted by Swarthmore, so I'd screenshot it to save for later. Then I completely forget it existed. My camera roll became a mess of good ideas that I'd never revisit.",
+              fix: "I built Recall to automatically sort every screenshot into categories that I define myself such as Swarthmore, LinkedIn, Athletics.",
               steps: [
                 "Take a screenshot as usual",
                 "Tap a button to send it to the app",
-                "The app identifies what's in the image and drops it into the right self-created folder automatically",
+                "The app identifies what's in the image and drops it into the correct self-created folder automatically",
               ],
             },
             {
@@ -113,7 +113,7 @@ export default function Personal() {
               tagline: "A browser extension that watches prices for you.",
               problem:
                 "I was tired of manually checking the same product pages over and over just to find out when an item went on sale.",
-              fix: "I built an extension that does the checking for me. You set a target price on any item and it checks the listing every hour. The moment it drops below your threshold, you get an email.",
+              fix: "I built an google extension that does the checking for you. You set a target price on any item and it checks the listing every hour. The moment it drops below your threshold, you get an email.",
               steps: [
                 "Go to the product page on the site",
                 "Open the extension and set your desired price",
