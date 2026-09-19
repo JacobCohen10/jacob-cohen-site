@@ -59,7 +59,7 @@ export default function Home() {
               problem solving, I want a career that involves more
               communication and teamwork. Through informational calls and
               independent research, I&apos;ve explored different opportunities
-              within the finance and found investment banking
+              within finance and found investment banking
               particularly appeals to me because it combines analytical
               problem solving with working closely with others. I&apos;m now
               working toward a career in investment banking and would love the

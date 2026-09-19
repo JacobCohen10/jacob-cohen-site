@@ -19,7 +19,7 @@ export default function Personal() {
           A Little About Me
         </span>
         <p className="mt-3 text-base leading-relaxed text-ink-muted dark:text-dark-muted">
-          I love to be active with my friends. I'm usually outside either hiking, biking, or playing pickleball. At home, I&apos;m enjoy being deeply involved in a board game or building something new. I am excited with what&apos;s possible to create now with AI and try to make new projects that come to mind. Most mornings I read the Exec Sum newsletter and listen financial podcasts to stay up to date. When I need a break there&apos;s nothing better than a long walk with some music on.
+          I love to be active with my friends. I'm usually outside either hiking, biking, or playing pickleball. At home, I enjoy being deeply involved in a board game or building something new. I am excited with what&apos;s possible to create now with AI and try to make new projects that come to mind. Most mornings I read the Exec Sum newsletter and listen financial podcasts to stay up to date. When I need a break there&apos;s nothing better than a long walk with some music on.
         </p>
       </header>
 
