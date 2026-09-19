@@ -56,10 +56,10 @@ export default function Home() {
               am very interested in business and technology. I initially
               planned to pursue software engineering. After working in the
               technology industry, I realized that while I enjoy quantitative
-              problem-solving, I would like a career that involves more
+              problem solving, I want a career that involves more
               communication and teamwork. Through informational calls and
               independent research, I&apos;ve explored different opportunities
-              within the financial industry and found that investment banking
+              within the finance and found investment banking
               particularly appeals to me because it combines analytical
               problem solving with working closely with others. I&apos;m now
               working toward a career in investment banking and would love the
