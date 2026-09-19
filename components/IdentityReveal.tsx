@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const WORDS = ["Builder.", "Student.", "Athlete."];
+const WORDS = ["Innovator", "Student", "Athlete"];
 const HOLD_MS = 900;
 const FADE_MS = 350;
 

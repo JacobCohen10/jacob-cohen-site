@@ -113,7 +113,7 @@ export default function Personal() {
               tagline: "A browser extension that watches prices for you.",
               problem:
                 "I was tired of manually checking the same product pages over and over just to find out when an item went on sale.",
-              fix: "I built an google extension that does the checking for you. You set a target price on any item and it checks the listing every hour. The moment it drops below your threshold, you get an email.",
+              fix: "I built an google extension that does the checking for you. When you set a target price on any item it checks the listing every hour. The moment it drops below your threshold, you get an email.",
               steps: [
                 "Go to the product page on the site",
                 "Open the extension and set your desired price",
