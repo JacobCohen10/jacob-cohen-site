@@ -50,21 +50,7 @@ export default function Home() {
                 transition: "opacity 600ms ease 150ms, transform 600ms ease 150ms",
               }}
             >
-              I&apos;m a sophomore at Swarthmore College studying Computer
-              Science and Economics and playing on the varsity lacrosse team.
-              I&apos;m from Fairfield, Connecticut, enjoy solving puzzles, and
-              am very interested in business and technology. I initially
-              planned to pursue software engineering. After working in the
-              technology industry, I realized that while I enjoy quantitative
-              problem solving, I want a career that involves more
-              communication and teamwork. Through informational calls and
-              independent research, I&apos;ve explored different opportunities
-              within finance and found investment banking
-              particularly appeals to me because it combines analytical
-              problem solving with working closely with others. I&apos;m now
-              working toward a career in investment banking and would love the
-              opportunity to be part of Recalc&apos;s Finance Accelerator
-              program.
+              I’m a sophomore at Swarthmore College studying Computer Science and Economics and playing on the varsity lacrosse team. I’m from Fairfield, Connecticut, and enjoy solving puzzles. I initially planned to pursue software engineering, but after working as a data engineer, I realized I wanted to use data and analytical thinking to understand how businesses work and evaluate them. I began exploring finance through informational calls and independent research to learn about different career paths. Additionally I am taking Corporate Finance at the Wharton School at the University of Pennsylvania to build a foundation in finance and my financial modeling skills. While working at a bio-adaptive startup, I spoke with venture partners and became interested in investing because it combines technical experience with the chance to evaluate and learn about other businesses. I would love the opportunity to join Citadel’s Associate Program and learn how its investment teams research companies and use data and technology to support their decisions.
             </p>
           </div>
 
